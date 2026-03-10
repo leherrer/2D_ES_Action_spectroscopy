@@ -1,6 +1,6 @@
 # 2D Spectroscopy Action Simulation with Redfield Dynamics
 
-This repository provides a Python implementation for simulating **2D coherent and action spectra** of molecular systems using **Redfield theory** and **Liouville-space eigen decomposition**. It includes computation of total spectra as well as individual Liouville pathways.
+This repository provides a Python implementation for simulating **2D coherent and action spectra** of molecular systems using **Redfield theory** and **Liouville-space eigen decomposition**. It includes computation of total spectra as well as individual Liouville pathways. Early version of this code were use to produce results of the article "**Theory and Simulations of Fluorescence-Detected Two-Dimensional Electronic Spectroscopy: From Rigorous Quantum Mechanics to Simple Kinetic Models**" (https://doi.org/10.1021/acs.jctc.5c01863) by Kennet J. Rueda Espinosa, Luis E. Herrera Rodríguez and Alexei A. Kananenka
 
 ---
 
